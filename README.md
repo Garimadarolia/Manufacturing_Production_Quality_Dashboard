@@ -25,13 +25,13 @@ To build an end-to-end analytics solution that identifies the key drivers behind
 ## KPI Summary (Overall, 2022–2024)
 Metric                         Value 
 
-Total Orders                    10,000
-Total Units Produced            2,442,793
-Average Downtime                1.95 hrs
-Average Defect Rate             7.41%
-Average Production Efficiency   66.31% 
-Target Achievement              69.67% 
-Delayed Orders                  9.77% 
+- Total Orders                    10,000
+- Total Units Produced            2,442,793
+- Average Downtime                1.95 hrs
+- Average Defect Rate             7.41%
+- Average Production Efficiency   66.31% 
+- Target Achievement              69.67% 
+- Delayed Orders                  9.77% 
 
 ## Key Findings
 - Tape Winding has the highest defect rate among all processes (7.85%).
