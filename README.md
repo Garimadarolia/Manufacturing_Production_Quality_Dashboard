@@ -46,18 +46,18 @@ Metric                         Value
 - Address the root cause behind the 9.77% delayed-order rate to improve on-time delivery.
 
 ## Project Structure
-
+```
 Manufacturing_Production_Quality_Dashboard/
-Data/
-    manufacturing_data.csv       -> Source dataset
-PowerBI/
-    Manufacturing_Dashboard.pbix  -> Power BI dashboard file
-Excel/
-    Manufacturing_Dashboard.xlsx  -> Excel dashboard (Power Pivot)
-Screenshots/
-    (dashboard page images)
- README.md                         -> Project documentation
-
+├── Data/
+│   └── manufacturing_data.csv        → Source dataset
+├── PowerBI/
+│   └── Manufacturing_Dashboard.pbix  → Power BI dashboard file
+├── Excel/
+│   └── Manufacturing_Dashboard.xlsx  → Excel dashboard (Power Pivot)
+├── Screenshots/
+│   └── (dashboard page images)
+└── README.md                         → Project documentation
+```
 
 ## Learning Outcomes
 Through this project, the following skills were developed:
