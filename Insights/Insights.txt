@@ -1,0 +1,27 @@
+ KPI SUMMARY (Overall 2022-2024)
+---------------------------------
+
+Total Orders Produced :- 2442793
+Total Orders :- 10,000
+Average Downtime Hours :- 1.95 hrs
+Avg Defect Rate % :- 7.41%
+Avg Production Efficiency % :- 66.31%
+Target Achievement % :- 69.67
+Delayed Orders % :- 9.77%
+
+ KEY FINDINGS
+--------------
+
+Tape Winding has highest defect rate (7.85%)
+Afternoon Shift most efficient (66.57%)
+Night shift least efficient (65.58%)
+10% orders are delayed
+Prototype Circular Loom has highest downtime
+Bengaluru Plant slightly more efficient than Kanpur
+
+ RECOMMENDATIONS
+-----------------
+
+Prioritize maintenance for Tape Winding machines
+Investigate Night shift underperformance
+Address 10% delayed orders root cause
